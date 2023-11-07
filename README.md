@@ -39,6 +39,7 @@ request_header_match_v5 = {
 * 데이터 수집에 필요한 api_key 및 요청시 필요한 request header에 대한 정보를 저장함
 * 위 그림처럼 API_KEY를 직접 발급받아야함
 
+# 데이터 수집 함수(CHAMPION_MASTERY_V4, SUMMONER_V4, MATCH_V5)
 ```python
 def Champion_mastery_v4(encryptedSummonerId):
     url = f"https://kr.api.riotgames.com/lol/champion-mastery/v4/champion-masteries/by-summoner/{encryptedSummonerId}?api_key=api_key"
