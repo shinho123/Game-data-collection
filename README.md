@@ -1,3 +1,9 @@
+# API(Open API, Rest API)란?
+
+* API는 **Application Programming Interface**의 약자로 프로그램과 프로그램이 서로 데이터를 주고 받기 위해 사전에 정한 요청·응답 방식을 의미함
+
+* 즉, 각자의 프로그램끼리 서로 일하는 방법을 약속한 것이라 해석하면 됨
+  
 # Open API
 
 <img width="376" alt="image" src="https://github.com/shinho123/Game-data-collection/assets/105840783/5151d926-434f-4db5-8df4-9b15f9400b65">
@@ -8,11 +14,25 @@
 
 * open api는 카테고리 별로 분류를 하면 지도, SNS, 음악, 공공데이터, 비즈니스, 날씨, 쇼핑 등 우리 생활과 밀접한 다양한 분야에서 사용이 가능하며 데이터 제공처는 네이버, 다음, 카카오, 구글, 페이스북 뿐 아니라 정부에서도 그동안 수집한 공공데이터를 open api 형태로 제공하고 있음
 
-* open api를 사용하기 위해서는 공개키를 필수적으로 발급 받아야함 
+* open api를 사용하기 위해서는 공개키를 필수적으로 발급 받아야함
+
+# Rest API
+
+<img width="475" alt="image" src="https://github.com/shinho123/Game-data-collection/assets/105840783/e8b33c26-46cd-4542-861f-f886c5de7e54">
+
+* Rest API는 HTTP 통신에서 어떤 자원에 대한 CRUD 요청을 Resource와 Method로 표현하여 특정한 형태로 전달하는 방식임
+  1. HTTP URI(Uniform Resource Identifier)를 통해 자원을 명시
+  2. HTTP Method(POST, GET, PUT, DELETE)를 통해 해당 자원에 대한 CRUD(Create, Read, Update, Delete) 연산을 수행
+  3. 요청에 대한 Resource는 JSON/XML/HTML과 같은 특정한 형태로 표현 됨
 
 # Riot API
+
 <img width="910" alt="image" src="https://github.com/shinho123/Game-data-collection/assets/105840783/a45e86da-f9e2-45c6-84dc-77d283a4292d">
 
+* Riot Games API는 자체 애플리케이션이나 웹사이트를 구축하는데 사용할 수 있도록 개발자에게 제공되는 **REST API** 임
+
+* 현재 모든 League of Legends API는 버전 4(2020년 3월 19일 업데이트)임
+  
 # Game-data-collection
 * riot api 롤 게임 유저 정보 수집
 
