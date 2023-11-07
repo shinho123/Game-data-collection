@@ -1,3 +1,9 @@
+# Open API
+<img width="376" alt="image" src="https://github.com/shinho123/Game-data-collection/assets/105840783/5151d926-434f-4db5-8df4-9b15f9400b65">
+
+# Riot API
+<img width="910" alt="image" src="https://github.com/shinho123/Game-data-collection/assets/105840783/a45e86da-f9e2-45c6-84dc-77d283a4292d">
+
 # Game-data-collection
 * riot api 롤 게임 유저 정보 수집
 
