@@ -32,7 +32,12 @@ request_header_match_v5 = {
                     "Origin": "https://developer.riotgames.com"
 }
 ```
+# API KEY
+
+<img width="416" alt="image" src="https://github.com/shinho123/Game-data-collection/assets/105840783/db3b5f87-590c-45ef-abd8-d5314d97db5e">
+
 * 데이터 수집에 필요한 api_key 및 요청시 필요한 request header에 대한 정보를 저장함
+* 위 그림처럼 API_KEY를 직접 발급받아야함
 
 ```python
 def Champion_mastery_v4(encryptedSummonerId):
