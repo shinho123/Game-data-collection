@@ -1,5 +1,14 @@
 # Open API
+
 <img width="376" alt="image" src="https://github.com/shinho123/Game-data-collection/assets/105840783/5151d926-434f-4db5-8df4-9b15f9400b65">
+
+* open api(open application programming interface, open api)는 누구나 사용할 수 있도록 공개된 API를 의미함
+
+* open api를 사용 시 데이터 기반의 모델 개발 시 비용을 절감할 수 있고 양질의 모델 개발을 수행할 수 있음
+
+* open api는 카테고리 별로 분류를 하면 지도, SNS, 음악, 공공데이터, 비즈니스, 날씨, 쇼핑 등 우리 생활과 밀접한 다양한 분야에서 사용이 가능하며 데이터 제공처는 네이버, 다음, 카카오, 구글, 페이스북 뿐 아니라 정부에서도 그동안 수집한 공공데이터를 open api 형태로 제공하고 있음
+
+* open api를 사용하기 위해서는 공개키를 필수적으로 발급 받아야함 
 
 # Riot API
 <img width="910" alt="image" src="https://github.com/shinho123/Game-data-collection/assets/105840783/a45e86da-f9e2-45c6-84dc-77d283a4292d">
