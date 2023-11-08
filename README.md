@@ -263,6 +263,7 @@ df.to_csv('riot_games_user_data.csv')
 
 # 저장된 csv 파일 재확인
 
+<img width="835" alt="image" src="https://github.com/shinho123/Game-data-collection/assets/105840783/881dcc58-9e8f-4ec7-ab3a-bf6dec4b667b">
 
 
 
