@@ -248,3 +248,9 @@ for idx, st in enumerate(all_data):
 
 <img width="592" alt="image" src="https://github.com/shinho123/Game-data-collection/assets/105840783/2181fb9c-8a89-429b-a387-d63cadde74a5">
 
+# 추후 연구 계획
+
+* 추가적인 유저 데이터를 더 확보하여 유저의 게임 승리 예측이나 게임에서 이탈하는 이탈 유저 예측 분석을 수행 예정임
+
+* 또한 게임 내에서 유저가 플레이한 정보를 바탕으로 게임 내의 추세를 분석할 수도 있음 이를 통해 기업에서는 유저가 실제로 요구하거나 필요로 하는 정보들을 명확하게 파악할 수 있음
+
