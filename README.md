@@ -242,11 +242,30 @@ for idx, st in enumerate(all_data):
 
 # 데이터 정보 확인
 
+```python
+print(datas)
+```
+
 <img width="590" alt="image" src="https://github.com/shinho123/Game-data-collection/assets/105840783/ab618ef4-426f-41b6-8081-9e1378cb628a">
 
 # 데이터프레임 형태로 확인
 
+```python
+df = pd.DataFrame(datas)
+```
 <img width="592" alt="image" src="https://github.com/shinho123/Game-data-collection/assets/105840783/2181fb9c-8a89-429b-a387-d63cadde74a5">
+
+# csv 파일로 저장
+
+```python
+df.to_csv('riot_games_user_data.csv')
+```
+
+# 저장된 csv 파일 재확인
+
+
+
+
 
 # 추후 연구 계획
 
